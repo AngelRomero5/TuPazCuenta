@@ -1,0 +1,75 @@
+
+/* As a good practice don't edit React Components, create classes and apply those classes to 
+   the specific component you are trying to change */
+
+ion-grid {
+    padding: 0;
+}
+
+.title-col {
+    display: flex;
+    align-content: center
+}
+.screen-titles{
+    color: #ffffff;
+    font-size: 30px;
+    text-align: right;
+    padding-right: 0;
+}
+
+.screen-h2 {
+    padding-top: 20px;
+}
+
+
+/* Styles for information screen */
+.info-card{
+    padding: 20px;
+}
+
+.info-p {
+    line-height: 1.5;
+}
+
+/* Styles for home screen */
+
+.card-header {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.ion-btn-download {
+    width:40px;
+}
+
+.msg-button {
+    position: absolute;
+    color: #f4963c;
+    font-size: 45px;
+}
+
+.moti-download {
+    font-size: 40px;
+}
+
+.moti-card {
+    background-color: #fff;
+    border-radius: 15px !important;
+    padding: 15px;
+    margin: 15px;
+}
+
+.moti-img {
+    border-radius: 15px !important;
+    overflow: hidden;
+}
+.card-date {
+    color:#8f00ff;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Styles for the flag screen */
+
+

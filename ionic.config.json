@@ -1,0 +1,7 @@
+{
+  "name": "TPCApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
